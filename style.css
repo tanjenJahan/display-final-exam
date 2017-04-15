@@ -1,0 +1,142 @@
+.wrapper{
+	width: 100%;
+
+}
+.mainheader{
+width: 960px;
+margin: 0 auto;
+
+
+}
+.header{
+	border-bottom:1px solid gray;
+}
+.logo{
+
+display: inline-block;
+overflow:hidden;
+
+}
+.logo1{
+	 
+ float: left;
+ margin-right:10px;
+}
+.logo2{
+color:gray;
+float: right;
+
+}
+.logo2 h1{
+	margin-top: 10px;
+	margin-bottom: 0px;
+	padding: 0;
+}
+.menu{
+	width: 300px;
+	float:right;
+	
+	margin-top: 10px;
+}
+.menu2{
+	
+}
+.menu2 ul{
+
+}
+.menu2 ul li{
+	color:gray;
+	display: inline-block;
+	list-style: none;
+	margin-right: 10px;
+}
+.body0{
+position: relative;
+
+}
+.body1{
+ 
+}
+.body2{
+position: absolute;
+	bottom: -60px;
+	left: 300px;
+}
+.text{
+	text-align:center;
+	padding-top:80px;
+	color:gray;
+	
+}
+
+.text2{
+	width: 100%;
+}
+.button{
+    color:white;
+	text-align: center;
+	background-color: green;
+	border:none;
+	padding:10px;
+}
+.menu2 ul li active{
+   color:green;
+}
+.mainfooter{
+	width:100%;
+	padding-top:20px;
+}
+
+.footer1{
+    padding:20px;
+	color:white;
+	background-color: #323232;
+	overflow:hidden;
+}
+.content{
+	padding:10px;
+
+	width:50%;
+    float:left;
+    text-align:center;
+}
+.content h2{
+	margin:0;
+	padding:0;
+}
+.content2{
+	width: 30%;
+float:right;
+padding:10px;
+
+}
+.button1{
+	padding:10px;
+	background-color: green;
+	color:white;
+	border:none;
+}
+.footer2{
+ 
+
+
+}
+.text2{
+	text-align:center;
+	font-size: 15px;
+	color:gray;
+	width:50%;
+	float:left;
+	
+}
+.text3{
+	font-size: 15px;
+	color:gray;
+	width:40%;
+	
+float:right;
+}
+.text3 ul li{
+	list-style: none;
+	display:inline-block;
+}
